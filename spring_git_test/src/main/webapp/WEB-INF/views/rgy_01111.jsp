@@ -5,9 +5,9 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Insert title here</title>
+		<title>다시커밋</title>
 	</head>
 	<body>
-		
+		commit
 	</body>
 </html>
