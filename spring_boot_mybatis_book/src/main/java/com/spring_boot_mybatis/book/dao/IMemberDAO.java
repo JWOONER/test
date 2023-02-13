@@ -1,0 +1,8 @@
+package com.spring_boot_mybatis.book.dao;
+
+import java.util.HashMap;
+
+public interface IMemberDAO {
+	public String loginCheck(HashMap<String,Object>map);
+
+}
